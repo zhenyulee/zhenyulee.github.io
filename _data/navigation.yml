@@ -10,8 +10,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Groups"
-    url: /groups/    
+  - title: "Group"
+    url: /group/    
 
   - title: "Teaching"
     url: /teaching/    
