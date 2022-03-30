@@ -5,6 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
+Content Delivery:
+
+Transport Protocols & Systems:
+
+Programmable Networks:
+
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
