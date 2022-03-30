@@ -17,6 +17,7 @@ Content Delivery
 *  Xi Chen, Minghao Zhao, Xinlei Yang, Zhenhua Li, Yao Liu, Zhenyu Li, and Yunhao Liu, "The Cask Effect of Multi-source Content Delivery: Measurement and Mitigation", IEEE ICDCS, 2019
 *   Kun Xie, Xiaocan Li, Xin Wang, Gaogang Xie, Dongliang Xie, Zhenyu Li, Jigang Wen, Zulong Diao, "Quick and Accurate False Data Detection in Mobile Crowd Sensing", IEEE INFOCOM, 2019
 *   Jingxiu Su, Zhenyu Li, Stephane Grumbach, Muhammad Ikram, Kave Salamatian, and Gaogang Xie, "A Cartography of Web Tracking using DNS Records", Computer Communications, 2018
+*   Zhenyu Li, Donghui Yang, Zhenhua Li, Chunjing Han, Gaogang Xie, Content Hosting Infrastructure in China: A View from a Cellular ISP, Passive and Active Measurement, 2018
 *   Jingxiu Su, Zhenyu Li, Stephane Grumbach, Muhammad Ikram, Kave Salamatian, Gaogang Xie, "Web Tracking Cartography with DNS Records", IEEE IPCCC, 2018
 *   Ennan Zhai, Zhenhua Li, Zhenyu Li, Fan Wu, Guihai Chen, "Resisting Tag Spam by Leveraging Implicit User Behaviors", VLDB, 2017
 *   Gaogang Xie, Zhenyu Li, Mohamed-Ali Kaafar, Qinghua Wu, "Access Types Effect on Internet Video Services and Its Implications on CDN Caching"", IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2017
