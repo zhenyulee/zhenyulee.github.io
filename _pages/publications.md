@@ -7,7 +7,6 @@ author_profile: true
 
 Content Delivery
 ======
-
 * Jinyang Li, Zhenyu Li, Qinghua Wu, and Gareth Tyson, "On Uploading Behavior and Optimizations of a Mobile Live Streaming Service", IEEE INFOCOM, 2022
 * Jinyang Li, Zhenyu Li, Gareth Tyson, and Gaogang Xie, "Characterising Usage Patterns and Privacy Risks of a Home Security Camera Service", IEEE Transactions on Mobile Computing, 2021
 * Donghui Yang, Zhenyu Li, and Gareth Tyson, "A Deep Dive into DNS Query Failures'", USENIX Annual Technical Conference (ATC), 2020
@@ -60,20 +59,21 @@ Transport Protocols & Systems
 Cloud Network
 ======
 * Ting Liu, Tianhao Miao, Qinghua Wu, Zhenyu Li, Guangxin He, Jiaoren Wu, Xingwu Yang, Gareth Tyson and Gaogang Xie. Demystifying Scaling Performance Bottlenecks in Distributed Deep Learning. ACM Web Conference (WWW), 2022
-* * Penghao Zhang, Heng Pan, Zhenyu Li, Penglai Cui, Ru Jia, Peng He, Zhibin Zhang, Gareth Tyson, and Gaogang Xie, "NetSHa: In-network Acceleration of LSH-based Distributed Search", IEEE Transactions on Parallel and Distributed Systems, 2022
+* Penghao Zhang, Heng Pan, Zhenyu Li, Penglai Cui, Ru Jia, Peng He, Zhibin Zhang, Gareth Tyson, and Gaogang Xie, "NetSHa: In-network Acceleration of LSH-based Distributed Search", IEEE Transactions on Parallel and Distributed Systems, 2022
 * Zhaohua Wang, Zhenyu Li, Guangming Liu, Yunfei Chen, Qinghua Wu, and Gang Cheng, "Examination of WAN Traffic Characteristics in a Large-scale Data Center Network", ACM IMC, 2021
 * Penglai Cui, Heng Pan, Zhenyu, Jiaoren Wu, Shengzhuo Zhang, Xingwu Yang, Hongtao Guan, and Gaogang Xie, "NetFC: enabling accurate floating-point arithmetic on programmable switches", IEEE ICNP, 2021
 * Penghao Zhang, Heng Pan, Zhenyu Li, Peng He, Zhibin Zhang, Gareth Tyson and Gaogang Xie, "Accelerating LSH-based Distributed Search with In-network Computation", IEEE INFOCOM 2021
 * Heng Pan, Zhenyu Li, Jianbo Dong, Zheng Cao, Tao Lan, Di Zhang, Gareth Tyson, and Gaogang Xie, "Dissecting the Communication Latency in Distributed Deep Sparse Learning", ACM IMC, 2020
 * Heng Pan, Zhenyu Li, Penghao Zhang, Kave Salamatian, and Gaogang Xie, "Misconfiguration Checking for SDN: Data Structure, Theory and Algorithms", IEEE ICNP, 2020
 * Pengpeng Zhou, Yang Wang, Zhenyu Li, Xin Wang, Gareth Tyson, and Gaogang Xie, "LogSayer: Log Pattern-driven Cloud Component Anomaly Diagnosis with Machine Learning", IEEE/ACM International Symposium on Quality of Service (IWQoS), 2020
-* Pengpeng Zhou, Yang Wang, \me, Gareth Tyson, Hongtao Guan, and Gaogang Xie, "LogChain: Cloud Workflow Reconstruction & Troubleshooting with Unstructured Logs", Computer Networks, 2020
+* Pengpeng Zhou, Yang Wang, Zhenyu Li, Gareth Tyson, Hongtao Guan, and Gaogang Xie, "LogChain: Cloud Workflow Reconstruction & Troubleshooting with Unstructured Logs", Computer Networks, 2020
 * Xian Yu, Guangxing Zhang, Zhenyu Li, Wei Liang, Gaogang Xie, "Toward Generalized Neural Model for VMs Power Consumption Estimation in Data Centers", IEEE ICC, 2019
 * Minghao Zhao, Zhenhua Li, Ennan Zhai, Gareth Tyson, Chen Qian, Zhenyu Li, Leiyu Zhao, "H2Cloud: Maintaining the Whole Filesystem in an Object Storage Cloud". ICPP 2018
+* Heng Pan, Zhenyu Li, Gaogang Xie, Peng He, Hongtao Guan, Laurent Mathy, "Efficient Action Computation for Compositional SDN Policies", IEEE Transactions on Network and Service Management, 2018
 * Zhenhua Li, Yongfeng Zhang, Yunhao Liu, Tianyin Xu, Ennan Zhai, Yao Liu, Xiaobo Ma, Zhenyu Li, A Quantitative and Comparative Study of Network-level Efficiency for Cloud Storage Services, ACM Transactions on Modeling and Performance Evaluation of Computing Systems (TOMPECS), 2018.
 * Heng Pan, Gaogang Xie, Zhenyu Li, Peng He, Laurent Mathy, "FlowConvertor: Enabling Portability of SDN Applications", IEEE INFOCOM, 2017
 * Yang Wang, Zhenyu Li, Gaogang Xie, Kave Salamatian, "Enabling Automatic Composition and Verification of Service Function Chain", IEEE/ACM IWQoS, 2017
 * Yang Wang, Gaogang Xie, Zhenyu Li, Peng He and Kave Salamatian, "Transparent Flow Migration for NFV", IEEE ICNP, 2016
 * Heng Pan, Gaogang Xie, Peng He, Zhenyu Li, Laurent Mathy, "Action Computation for compositional SDN hypervisors", IFIP Networking, 2016
 * Gaogang Xie, Peng He, Hongtao Guan, Zhenyu Li, Yingke Xie, Layong Luo, Jianhua Zhang, Yonggong Wang, Kave Salamatian, PEARL: a programmable virtual router platform, IEEE Communications Magazine, 2011
-* Heng Pan, Zhenyu Li, Gaogang Xie, Peng He, Hongtao Guan, Laurent Mathy, "Efficient Action Computation for Compositional SDN Policies", IEEE Transactions on Network and Service Management, 2018
+
