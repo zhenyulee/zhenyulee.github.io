@@ -43,37 +43,36 @@ Content Delivery
 
 Transport Protocols & Systems 
 ======
-* Zhiren Zhong, Wei Wang, Yiyang Shao, Zhenyu Li, Heng Pan, Hongtao Guan, Gareth Tyson, Gaogang Xie, and Kai Zheng, "Muses: Enabling Lightweight Learning-Based Congestion Control for Mobile Devices", IEEE INFOCOM, 2022
-* Gerui Lv, Qinghua Wu, Weiran Wang, Zhenyu Li and Gaogang Xie, "Lumos: towards Better Video Streaming QoE through Accurate Throughput Prediction", IEEE INFOCOM, 2022
-* Furong Yang, Qinghua Wu, Zhenyu Li, Yanmei Liu, Giovanni Pau, and Gaogang Xie, "BBRv2+: Towards Balancing Aggressiveness and Fairness with Delay-based Bandwidth Probing", Computer Networks, 2022
-* Jianer Zhou, Xinyi Qiu, Zhenyu Li, Gareth Tyson, Qing Li, and Yi Wang, "Antelope: A Framework for Dynamic Selection of Congestion Control Algorithms", IEEE ICNP, 2021
-* Zhilong Zheng, Yunfei Ma, Yanmei Liu, Furong Yang, Zhenyu Li, Jiuhai Zhang, Wei Shi, Wentao Chen, Ding Li, Qing An, Hai Hong, Hongqiang Harry Liu, and Ming Zhang, "XLINK: QoE-Driven Multi-Path QUIC Transport in Large-scale Video Services", ACM SIGCOMM, 2021
-* Jianer Zhou, Zhenyu Li, Qinghua Wu, Peter Steenkiste, Steve Uhlig, Jun Li, and Gaogang Xie, "TCP Stalls at the Server Side: Measurement and Mitigation", IEEE/ACM Transactions on Networking, 2019
-* Zhenyu Li, Mohamed-Ali Kaafar, and Gaogang Xie, "Session throughput prediction for Internet videos", IEEE Communications magazine, Nov. 2016
-* Zhenyu Li, Xiaohui Wang, Ningjing Huang, Mohamed Ali Kaafar, Zhenhua Li, Jianer Zhou, Gaogang Xie, Peter Steenkiste, "An Empirical Analysis of a Large-scale Mobile Cloud Storage Service", ACM IMC, 2016
-* Jianer Zhou, Qinghua Wu, Zhenyu Li, Steve Uhlig, Peter Steenkiste, Jian Chen, Gaogang Xie, "Demystifying and Mitigating TCP Stalls at the Server Side", ACM CoNEXT, 2015 
-* Jianer Zhou, Qinghua Wu, Zhenyu Li, Mohamed Ali Kaafar, Gaogang Xie, "A proactive transport mechanism with explicit congestion notification for NDN", IEEE ICC, 2015
+* <span style="color:blue">[INFOCOM 22]</span> Zhiren Zhong, Wei Wang, Yiyang Shao, Zhenyu Li, Heng Pan, Hongtao Guan, Gareth Tyson, Gaogang Xie, and Kai Zheng, "Muses: Enabling Lightweight Learning-Based Congestion Control for Mobile Devices", IEEE INFOCOM, 2022
+* <span style="color:blue">[INFOCOM 22]</span> Gerui Lv, Qinghua Wu, Weiran Wang, Zhenyu Li and Gaogang Xie, "Lumos: towards Better Video Streaming QoE through Accurate Throughput Prediction", IEEE INFOCOM, 2022
+* <span style="color:blue">[ComNet 22]</span> Furong Yang, Qinghua Wu, Zhenyu Li, Yanmei Liu, Giovanni Pau, and Gaogang Xie, "BBRv2+: Towards Balancing Aggressiveness and Fairness with Delay-based Bandwidth Probing", Computer Networks, 2022
+* <span style="color:blue">[ICNP 21]</span> Jianer Zhou, Xinyi Qiu, Zhenyu Li, Gareth Tyson, Qing Li, and Yi Wang, "Antelope: A Framework for Dynamic Selection of Congestion Control Algorithms", IEEE ICNP, 2021
+* <span style="color:blue">[SIGCOMM 21]</span> Zhilong Zheng, Yunfei Ma, Yanmei Liu, Furong Yang, Zhenyu Li, Jiuhai Zhang, Wei Shi, Wentao Chen, Ding Li, Qing An, Hai Hong, Hongqiang Harry Liu, and Ming Zhang, "XLINK: QoE-Driven Multi-Path QUIC Transport in Large-scale Video Services", ACM SIGCOMM, 2021
+* <span style="color:blue">[ToN 19]</span> Jianer Zhou, Zhenyu Li, Qinghua Wu, Peter Steenkiste, Steve Uhlig, Jun Li, and Gaogang Xie, "TCP Stalls at the Server Side: Measurement and Mitigation", IEEE/ACM Transactions on Networking, 2019
+* <span style="color:blue">[Comm. 16]</span> Zhenyu Li, Mohamed-Ali Kaafar, and Gaogang Xie, "Session throughput prediction for Internet videos", IEEE Communications magazine, Nov. 2016
+* <span style="color:blue">[IMC 16]</span> Zhenyu Li, Xiaohui Wang, Ningjing Huang, Mohamed Ali Kaafar, Zhenhua Li, Jianer Zhou, Gaogang Xie, Peter Steenkiste, "An Empirical Analysis of a Large-scale Mobile Cloud Storage Service", ACM IMC, 2016
+* <span style="color:blue">[CoNEXT 15]</span> Jianer Zhou, Qinghua Wu, Zhenyu Li, Steve Uhlig, Peter Steenkiste, Jian Chen, Gaogang Xie, "Demystifying and Mitigating TCP Stalls at the Server Side", ACM CoNEXT, 2015 
+
 
 
 
 Cloud Network
 ======
-* Ting Liu, Tianhao Miao, Qinghua Wu, Zhenyu Li, Guangxin He, Jiaoren Wu, Xingwu Yang, Gareth Tyson and Gaogang Xie. Demystifying Scaling Performance Bottlenecks in Distributed Deep Learning. ACM Web Conference (WWW), 2022
-* Penghao Zhang, Heng Pan, Zhenyu Li, Penglai Cui, Ru Jia, Peng He, Zhibin Zhang, Gareth Tyson, and Gaogang Xie, "NetSHa: In-network Acceleration of LSH-based Distributed Search", IEEE Transactions on Parallel and Distributed Systems, 2022
-* Zhaohua Wang, Zhenyu Li, Guangming Liu, Yunfei Chen, Qinghua Wu, and Gang Cheng, "Examination of WAN Traffic Characteristics in a Large-scale Data Center Network", ACM IMC, 2021
-* Penglai Cui, Heng Pan, Zhenyu, Jiaoren Wu, Shengzhuo Zhang, Xingwu Yang, Hongtao Guan, and Gaogang Xie, "NetFC: enabling accurate floating-point arithmetic on programmable switches", IEEE ICNP, 2021
-* Penghao Zhang, Heng Pan, Zhenyu Li, Peng He, Zhibin Zhang, Gareth Tyson and Gaogang Xie, "Accelerating LSH-based Distributed Search with In-network Computation", IEEE INFOCOM 2021
-* Heng Pan, Zhenyu Li, Jianbo Dong, Zheng Cao, Tao Lan, Di Zhang, Gareth Tyson, and Gaogang Xie, "Dissecting the Communication Latency in Distributed Deep Sparse Learning", ACM IMC, 2020
-* Heng Pan, Zhenyu Li, Penghao Zhang, Kave Salamatian, and Gaogang Xie, "Misconfiguration Checking for SDN: Data Structure, Theory and Algorithms", IEEE ICNP, 2020
-* Pengpeng Zhou, Yang Wang, Zhenyu Li, Xin Wang, Gareth Tyson, and Gaogang Xie, "LogSayer: Log Pattern-driven Cloud Component Anomaly Diagnosis with Machine Learning", IEEE/ACM International Symposium on Quality of Service (IWQoS), 2020
-* Pengpeng Zhou, Yang Wang, Zhenyu Li, Gareth Tyson, Hongtao Guan, and Gaogang Xie, "LogChain: Cloud Workflow Reconstruction & Troubleshooting with Unstructured Logs", Computer Networks, 2020
-* Xian Yu, Guangxing Zhang, Zhenyu Li, Wei Liang, Gaogang Xie, "Toward Generalized Neural Model for VMs Power Consumption Estimation in Data Centers", IEEE ICC, 2019
-* Minghao Zhao, Zhenhua Li, Ennan Zhai, Gareth Tyson, Chen Qian, Zhenyu Li, Leiyu Zhao, "H2Cloud: Maintaining the Whole Filesystem in an Object Storage Cloud". ICPP 2018
-* Heng Pan, Zhenyu Li, Gaogang Xie, Peng He, Hongtao Guan, Laurent Mathy, "Efficient Action Computation for Compositional SDN Policies", IEEE Transactions on Network and Service Management, 2018
-* Zhenhua Li, Yongfeng Zhang, Yunhao Liu, Tianyin Xu, Ennan Zhai, Yao Liu, Xiaobo Ma, Zhenyu Li, A Quantitative and Comparative Study of Network-level Efficiency for Cloud Storage Services, ACM Transactions on Modeling and Performance Evaluation of Computing Systems (TOMPECS), 2018.
-* Heng Pan, Gaogang Xie, Zhenyu Li, Peng He, Laurent Mathy, "FlowConvertor: Enabling Portability of SDN Applications", IEEE INFOCOM, 2017
-* Yang Wang, Zhenyu Li, Gaogang Xie, Kave Salamatian, "Enabling Automatic Composition and Verification of Service Function Chain", IEEE/ACM IWQoS, 2017
-* Yang Wang, Gaogang Xie, Zhenyu Li, Peng He and Kave Salamatian, "Transparent Flow Migration for NFV", IEEE ICNP, 2016
-* Heng Pan, Gaogang Xie, Peng He, Zhenyu Li, Laurent Mathy, "Action Computation for compositional SDN hypervisors", IFIP Networking, 2016
-* Gaogang Xie, Peng He, Hongtao Guan, Zhenyu Li, Yingke Xie, Layong Luo, Jianhua Zhang, Yonggong Wang, Kave Salamatian, PEARL: a programmable virtual router platform, IEEE Communications Magazine, 2011
+* <span style="color:blue">[WWW 22]</span> Ting Liu, Tianhao Miao, Qinghua Wu, Zhenyu Li, Guangxin He, Jiaoren Wu, Xingwu Yang, Gareth Tyson and Gaogang Xie. Demystifying Scaling Performance Bottlenecks in Distributed Deep Learning. ACM Web Conference (WWW), 2022
+* <span style="color:blue">[TPDS 22]</span> Penghao Zhang, Heng Pan, Zhenyu Li, Penglai Cui, Ru Jia, Peng He, Zhibin Zhang, Gareth Tyson, and Gaogang Xie, "NetSHa: In-network Acceleration of LSH-based Distributed Search", IEEE Transactions on Parallel and Distributed Systems, 2022
+* <span style="color:blue">[IMC 21]</span> Zhaohua Wang, Zhenyu Li, Guangming Liu, Yunfei Chen, Qinghua Wu, and Gang Cheng, "Examination of WAN Traffic Characteristics in a Large-scale Data Center Network", ACM IMC, 2021
+* <span style="color:blue">[ICNP 21]</span> Penglai Cui, Heng Pan, Zhenyu, Jiaoren Wu, Shengzhuo Zhang, Xingwu Yang, Hongtao Guan, and Gaogang Xie, "NetFC: enabling accurate floating-point arithmetic on programmable switches", IEEE ICNP, 2021
+* <span style="color:blue">[INFOCOM 21]</span> Penghao Zhang, Heng Pan, Zhenyu Li, Peng He, Zhibin Zhang, Gareth Tyson and Gaogang Xie, "Accelerating LSH-based Distributed Search with In-network Computation", IEEE INFOCOM 2021
+* <span style="color:blue">[IMC 20]</span> Heng Pan, Zhenyu Li, Jianbo Dong, Zheng Cao, Tao Lan, Di Zhang, Gareth Tyson, and Gaogang Xie, "Dissecting the Communication Latency in Distributed Deep Sparse Learning", ACM IMC, 2020
+* <span style="color:blue">[ICNP 20]</span> Heng Pan, Zhenyu Li, Penghao Zhang, Kave Salamatian, and Gaogang Xie, "Misconfiguration Checking for SDN: Data Structure, Theory and Algorithms", IEEE ICNP, 2020
+* <span style="color:blue">[IWQoS 20]</span> Pengpeng Zhou, Yang Wang, Zhenyu Li, Xin Wang, Gareth Tyson, and Gaogang Xie, "LogSayer: Log Pattern-driven Cloud Component Anomaly Diagnosis with Machine Learning", IEEE/ACM International Symposium on Quality of Service (IWQoS), 2020
+* <span style="color:blue">[ComNet 20]</span> Pengpeng Zhou, Yang Wang, Zhenyu Li, Gareth Tyson, Hongtao Guan, and Gaogang Xie, "LogChain: Cloud Workflow Reconstruction & Troubleshooting with Unstructured Logs", Computer Networks, 2020
+* <span style="color:blue">[ICPP 18]</span> Minghao Zhao, Zhenhua Li, Ennan Zhai, Gareth Tyson, Chen Qian, Zhenyu Li, Leiyu Zhao, "H2Cloud: Maintaining the Whole Filesystem in an Object Storage Cloud". ICPP 2018
+* <span style="color:blue">[TNSM 18]</span> Heng Pan, Zhenyu Li, Gaogang Xie, Peng He, Hongtao Guan, Laurent Mathy, "Efficient Action Computation for Compositional SDN Policies", IEEE Transactions on Network and Service Management, 2018
+* <span style="color:blue">[TOMPECS 18]</span> Zhenhua Li, Yongfeng Zhang, Yunhao Liu, Tianyin Xu, Ennan Zhai, Yao Liu, Xiaobo Ma, Zhenyu Li, A Quantitative and Comparative Study of Network-level Efficiency for Cloud Storage Services, ACM Transactions on Modeling and Performance Evaluation of Computing Systems (TOMPECS), 2018.
+* <span style="color:blue">[INFOCOM 17]</span> Heng Pan, Gaogang Xie, Zhenyu Li, Peng He, Laurent Mathy, "FlowConvertor: Enabling Portability of SDN Applications", IEEE INFOCOM, 2017
+* <span style="color:blue">[IWQoS 17]</span> Yang Wang, Zhenyu Li, Gaogang Xie, Kave Salamatian, "Enabling Automatic Composition and Verification of Service Function Chain", IEEE/ACM IWQoS, 2017
+* <span style="color:blue">[ICNP 16]</span> Yang Wang, Gaogang Xie, Zhenyu Li, Peng He and Kave Salamatian, "Transparent Flow Migration for NFV", IEEE ICNP, 2016
+* <span style="color:blue">[Networking 16]</span> Heng Pan, Gaogang Xie, Peng He, Zhenyu Li, Laurent Mathy, "Action Computation for compositional SDN hypervisors", IFIP Networking, 2016
+* <span style="color:blue">[Comm. 11]</span> Gaogang Xie, Peng He, Hongtao Guan, Zhenyu Li, Yingke Xie, Layong Luo, Jianhua Zhang, Yonggong Wang, Kave Salamatian, PEARL: a programmable virtual router platform, IEEE Communications Magazine, 2011
 
