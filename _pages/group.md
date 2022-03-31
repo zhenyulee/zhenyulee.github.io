@@ -4,7 +4,7 @@ title: " "
 permalink: /group/
 ---
 
-I have been leading the Network Architecture and System Group at ICT, CAS since June, 2019. The group was previously led by [Prof. Gaogang Xie](https://people.ucas.ac.cn/~\_xie). Our group focuses on: (1) Internet measurement; (2) Internet architecture and (3) programmable network. We are more system oriented --- we observe networked systems, optimizing them and also build new ones. 
+I have been leading the Network Architecture and System Group at ICT, CAS since June, 2019. The group was previously led by [Prof. Gaogang Xie](https://people.ucas.ac.cn/~_xie). Our group focuses on: (1) Internet measurement; (2) Internet architecture and (3) programmable network. We are more system oriented --- we observe networked systems, optimizing them and also build new ones. 
 
 We work closely with <span style="font-weight:bold">industry partners</span>. If you are from industry and are interested in collabrating with us, please do not hensitate to contact me. 
 
