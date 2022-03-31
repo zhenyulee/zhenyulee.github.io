@@ -34,6 +34,7 @@ Alumni:
 * Jingxiu Su, 2013 - 2019, DNS measurement. First job: CNCERT (co-supervised with Prof. Gaogang Xie)
 * Heng Pan, 2012 - 2018, Programmable Network. First job: ICT (co-supervised with Prof. Gaogang Xie)
 * Yang Wang, 2013 - 2017, NFV. First Job: ICT (co-supervised with Prof. Gaogang Xie)
-* Jianer Zhou, 2012 - 2016, Transport protocol. First Job: CNIC (co-supervised with Prof. Gaogang Xie)
-* Qinghua Wu, 2009 - 2015, Future network protocol. First Job: ICT (co-supervised with Prof. Gaogang Xie)
-* Yonggong Wang, 20110 - 2014, Information centric network. First Job: H3C (co-supervised with Prof. Gaogang Xie)
+* Jianer Zhou, 2012 - 2016, Transport protocol. First job: CNIC (co-supervised with Prof. Gaogang Xie)
+* Qinghua Wu, 2009 - 2015, Future network protocol. First job: ICT (co-supervised with Prof. Gaogang Xie)
+* Dong Wang, 2019 - 2015, Information diffusion in social media. First job: Microsoft, Asia 
+* Yonggong Wang, 20110 - 2014, Information centric network. First job: H3C (co-supervised with Prof. Gaogang Xie)
