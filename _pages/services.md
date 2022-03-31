@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Professional Services"
+title: " "
 permalink: /services/
 ---
 
@@ -11,7 +11,7 @@ TPC Member
 * IEEE ICNP 2019, 2020, 2022
 * IFIP Networking 2021
 * ACM SIGCOMM Poster/demo 2019
-* * ACM SIGCOMM AINTEC 2016, 2017
+* ACM SIGCOMM AINTEC 2016, 2017
 * ACM ICN Poster/demo 2015, 2017
 * ACM CoNext Student Workshop 2015
 * IEEE Conf. IoT 2015
