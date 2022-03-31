@@ -38,6 +38,7 @@ Content Delivery
 *   Zhenyu Li, Gaogang Xie, Kave Salamatian, "Exploiting Interest Locality for Peer-Assisted Search in UGC Video Systems", ICPP, 2012
 *   Zhenyu Li, Rong Gu, Gaogang Xie, "Measuring and enhancing the social connectivity of UGC video systems: A case study of YouKu", IEEE IWQoS, 2011
 *   Zhenyu Li, Gaogang Xie, Kai Hwang, Zhongcheng Li, "Churn-Resilient Protocol for Massive Data Dissemination in P2P Networks", IEEE Transactions on Parallel and Distributed Systems, 2011
+*   <span style="color:blue">[Book Chapter]</span> Zhenyu Li, Kai Hwang, Gaogang Xie, ''Peer-to-Peer Computing and Overlay Networks", in Distributed and Cloud Computing, editors: K. Hwang, G. Fox, and J. Dongarra, Morgan Kauffmann, 2011.10, pp.479-544 
 
 
 
