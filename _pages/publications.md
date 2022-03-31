@@ -7,37 +7,35 @@ author_profile: true
 
 Content Delivery
 ======
-* Jinyang Li, Zhenyu Li, Qinghua Wu, and Gareth Tyson, "On Uploading Behavior and Optimizations of a Mobile Live Streaming Service", IEEE INFOCOM, 2022
-* Jinyang Li, Zhenyu Li, Gareth Tyson, and Gaogang Xie, "Characterising Usage Patterns and Privacy Risks of a Home Security Camera Service", IEEE Transactions on Mobile Computing, 2021
-* Donghui Yang, Zhenyu Li, and Gareth Tyson, "A Deep Dive into DNS Query Failures'", USENIX Annual Technical Conference (ATC), 2020
-* Zhaohua Wang, Zhenyu Li, Minhui Xue, and Gareth Tyson, "Exploring the Eastern Frontier: A First Look at Mobile App Tracking in China", Passive and Active Measurement (PAM), 2020
-*  Jinyang Li, Zhenyu Li, Gareth Tyson, and Gaogang Xie, "Your Privilege Gives Your Privacy Away: An Analysis of a Home Security Camera Service", IEEE INFOCOM, 2020
-*  Xiaocan Li, Kun Xie, Xin Wang, Gaogang Xie, DongliangXie, Zhenyu Li, Jigang Wen, Zulong Diao, and Tian Wang, "Quick and Accurate False Data Detection in Mobile Crowd Sensing", IEEE/ACM Transactions on Networking, 2020 
-*  Zhaohua Wang, and Zhenyu Li, "Characterizing Smartphone Users' Mobility Patterns in a Large 4G Cellular Network", IEEE MSN, 2019
-*  Xi Chen, Minghao Zhao, Xinlei Yang, Zhenhua Li, Yao Liu, Zhenyu Li, and Yunhao Liu, "The Cask Effect of Multi-source Content Delivery: Measurement and Mitigation", IEEE ICDCS, 2019
-*   Kun Xie, Xiaocan Li, Xin Wang, Gaogang Xie, Dongliang Xie, Zhenyu Li, Jigang Wen, Zulong Diao, "Quick and Accurate False Data Detection in Mobile Crowd Sensing", IEEE INFOCOM, 2019
-*   Jingxiu Su, Zhenyu Li, Stephane Grumbach, Muhammad Ikram, Kave Salamatian, and Gaogang Xie, "A Cartography of Web Tracking using DNS Records", Computer Communications, 2018
-*   Zhenyu Li, Donghui Yang, Zhenhua Li, Chunjing Han, Gaogang Xie, Content Hosting Infrastructure in China: A View from a Cellular ISP, Passive and Active Measurement, 2018
-*   Jingxiu Su, Zhenyu Li, Stephane Grumbach, Muhammad Ikram, Kave Salamatian, Gaogang Xie, "Web Tracking Cartography with DNS Records", IEEE IPCCC, 2018
-*   Ennan Zhai, Zhenhua Li, Zhenyu Li, Fan Wu, Guihai Chen, "Resisting Tag Spam by Leveraging Implicit User Behaviors", VLDB, 2017
-*   Gaogang Xie, Zhenyu Li, Mohamed-Ali Kaafar, Qinghua Wu, "Access Types Effect on Internet Video Services and Its Implications on CDN Caching"", IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2017
-*   Fangzhou Jiang, Zhi Liu, Kanchana Thilakarathna, Zhenyu Li, Yusheng Ji, Aruna Seneviratne, "TransFetch: A Viewing Behavior Driven Video Distribution Framework in Public Transport", IEEE LCN, 2016
-*   Dong Wang, Zhenyu Li, Gaogang Xie, Mohamed Ali Kaafar, Kave Salamatian, "Adwords Management for Third-parties in SEM: an Optimisation Model and the Potential of Twitter", IEEE INFOCOM, 2016
-*   Yonggong Wang, Zhenyu Li, Gareth Tyson, Steve Uhlig, Gaogang Xie, "Design and Evaluation of the Optimal Cache Allocation for Content-Centric Networking", IEEE Transactions on Computers, 2016
-*   Zhenyu Li, Mohamed-Ali Kaafar, Kave Salamatian and Gaogang Xie, ``Characterizing and Modeling User Behavior in a Large-scale Mobile Live Streaming System'', EEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2016
-*   Qinghua Wu, Zhenyu Li, Zhenyu Li, Gareth Tyson, Steve Uhlig, Mohamed-Ali Kaafar and Gaogang Xie, "Privacy-aware Multipath Video Caching for Content-Centric Networks", IEEE Journal on Selected Areas in Communications (JSAC)}, 2016
-*   Zhenyu Li, Mohamed Ali Kaafar, Kave Salamatian, Gaogang Xie, "User Behavior Characterization of a Large-scale Mobile Live Streaming System", ACM WWW-web science track, 2015
-*   Zhenyu Li, Qinghua Wu, Kave Salamatian, Gaogang Xie, "Video Delivery Performance of a Large-Scale VoD System and the Implications on Content Delivery", IEEE Transactions on Multimedia, 2015
-*   Zhenyu Li, Gaogang Xie, Jiali Lin, Yun Jin, Mohamed Ali Kaafar, Kave Salamatian, "On the geographic patterns of a large-scale mobile video-on-demand system", IEEE INFOCOM, 2014
-*   Qinghua Wu, Zhenyu Li, Jianer Zhou, Heng Jiang, Zhiyang Hu, Yunjie Liu, Gaogang Xie, "SOFIA: toward service-oriented information centric networking", IEEE Network, 2014
-*   Yonggong Wang, Zhenyu Li, Gareth Tyson, Steve Uhlig, Gaogang Xie, "Optimal cache allocation for Content-Centric Networking", IEEE ICNP, 2013
-*   Zhenyu Li, Jiali Lin, Kave Salamatian, Gaogang Xie, "Social Connections in User-Generated Content Video Systems: Analysis and Recommendation", IEEE Transactions on Network and Service Management, 2013
-*   Jiali Lin, Zhenyu Li, Gaogang Xie, Yi Sun, Kave Salamatian, Wenjie Wang, "Mobile video popularity distributions and the potential of peer-assisted video delivery", IEEE Communications Magazine, 2013
-*   Yi Sun, Yang Guo, Zhenyu Li, Jiali Lin, Gaogang Xie, Xiaobing Zhang, Kave Salamatian, "The case for P2P mobile video system over wireless broadband networks: A practical study of challenges for a mobile video provider", IEEE Network, 2013
-*   Zhenyu Li, Jiali Lin, Marc-Ismael Akodjenou, Gaogang Xie, Mohamed Ali Kaafar, Yun Jin, Gang Peng, "Watching videos from everywhere: a study of the PPTV mobile VoD system", ACM IMC, 2012
-*   Zhenyu Li, Gaogang Xie, Kave Salamatian, "Exploiting Interest Locality for Peer-Assisted Search in UGC Video Systems", ICPP, 2012
-*   Zhenyu Li, Rong Gu, Gaogang Xie, "Measuring and enhancing the social connectivity of UGC video systems: A case study of YouKu", IEEE IWQoS, 2011
-*   Zhenyu Li, Gaogang Xie, Kai Hwang, Zhongcheng Li, "Churn-Resilient Protocol for Massive Data Dissemination in P2P Networks", IEEE Transactions on Parallel and Distributed Systems, 2011
+* <span style="color:blue">[INFOCOM 22]</span> Jinyang Li, Zhenyu Li, Qinghua Wu, and Gareth Tyson, "On Uploading Behavior and Optimizations of a Mobile Live Streaming Service", IEEE INFOCOM, 2022
+* <span style="color:blue">[TMC 21]</span> Jinyang Li, Zhenyu Li, Gareth Tyson, and Gaogang Xie, "Characterising Usage Patterns and Privacy Risks of a Home Security Camera Service", IEEE Transactions on Mobile Computing, 2021
+* <span style="color:blue">[ATC 20]</span> Donghui Yang, Zhenyu Li, and Gareth Tyson, "A Deep Dive into DNS Query Failures'", USENIX Annual Technical Conference (ATC), 2020
+* <span style="color:blue">[PAM 20]</span> Zhaohua Wang, Zhenyu Li, Minhui Xue, and Gareth Tyson, "Exploring the Eastern Frontier: A First Look at Mobile App Tracking in China", Passive and Active Measurement (PAM), 2020
+*  <span style="color:blue">[INFOCOM 20]</span> Jinyang Li, Zhenyu Li, Gareth Tyson, and Gaogang Xie, "Your Privilege Gives Your Privacy Away: An Analysis of a Home Security Camera Service", IEEE INFOCOM, 2020
+*  <span style="color:blue">[ToN 20]</span> Xiaocan Li, Kun Xie, Xin Wang, Gaogang Xie, DongliangXie, Zhenyu Li, Jigang Wen, Zulong Diao, and Tian Wang, "Quick and Accurate False Data Detection in Mobile Crowd Sensing", IEEE/ACM Transactions on Networking, 2020 
+*  <span style="color:blue">[ICDCS 19]</span> Xi Chen, Minghao Zhao, Xinlei Yang, Zhenhua Li, Yao Liu, Zhenyu Li, and Yunhao Liu, "The Cask Effect of Multi-source Content Delivery: Measurement and Mitigation", IEEE ICDCS, 2019
+*  <span style="color:blue">[INFOCOM 19]</span>  Kun Xie, Xiaocan Li, Xin Wang, Gaogang Xie, Dongliang Xie, Zhenyu Li, Jigang Wen, Zulong Diao, "Quick and Accurate False Data Detection in Mobile Crowd Sensing", IEEE INFOCOM, 2019
+*   <span style="color:blue">[ComCom 18]</span> Jingxiu Su, Zhenyu Li, Stephane Grumbach, Muhammad Ikram, Kave Salamatian, and Gaogang Xie, "A Cartography of Web Tracking using DNS Records", Computer Communications, 2018
+*   <span style="color:blue">[PAM 18]</span> Zhenyu Li, Donghui Yang, Zhenhua Li, Chunjing Han, Gaogang Xie, Content Hosting Infrastructure in China: A View from a Cellular ISP, Passive and Active Measurement, 2018
+*   <span style="color:blue">[VLDB 17]</span> Ennan Zhai, Zhenhua Li, Zhenyu Li, Fan Wu, Guihai Chen, "Resisting Tag Spam by Leveraging Implicit User Behaviors", VLDB, 2017
+*   <span style="color:blue">[TCSVT 17]</span> Gaogang Xie, Zhenyu Li, Mohamed-Ali Kaafar, Qinghua Wu, "Access Types Effect on Internet Video Services and Its Implications on CDN Caching"", IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2017
+*   <span style="color:blue">[LCN 16]</span> Fangzhou Jiang, Zhi Liu, Kanchana Thilakarathna, Zhenyu Li, Yusheng Ji, Aruna Seneviratne, "TransFetch: A Viewing Behavior Driven Video Distribution Framework in Public Transport", IEEE LCN, 2016
+*   <span style="color:blue">[INFOCOM 16]</span> Dong Wang, Zhenyu Li, Gaogang Xie, Mohamed Ali Kaafar, Kave Salamatian, "Adwords Management for Third-parties in SEM: an Optimisation Model and the Potential of Twitter", IEEE INFOCOM, 2016
+*   <span style="color:blue">[ToC 16]</span> Yonggong Wang, Zhenyu Li, Gareth Tyson, Steve Uhlig, Gaogang Xie, "Design and Evaluation of the Optimal Cache Allocation for Content-Centric Networking", IEEE Transactions on Computers, 2016
+*   <span style="color:blue">[TCSVT 16]</span> Zhenyu Li, Mohamed-Ali Kaafar, Kave Salamatian and Gaogang Xie, ``Characterizing and Modeling User Behavior in a Large-scale Mobile Live Streaming System'', EEE Transactions on Circuits and Systems for Video Technology (TCSVT), 2016
+*   <span style="color:blue">[JSAC 16]</span> Qinghua Wu, Zhenyu Li, Zhenyu Li, Gareth Tyson, Steve Uhlig, Mohamed-Ali Kaafar and Gaogang Xie, "Privacy-aware Multipath Video Caching for Content-Centric Networks", IEEE Journal on Selected Areas in Communications (JSAC), 2016
+*   <span style="color:blue">[WWW 15]</span> Zhenyu Li, Mohamed Ali Kaafar, Kave Salamatian, Gaogang Xie, "User Behavior Characterization of a Large-scale Mobile Live Streaming System", ACM WWW-web science track, 2015
+*   <span style="color:blue">[TMM 20]</span> Zhenyu Li, Qinghua Wu, Kave Salamatian, Gaogang Xie, "Video Delivery Performance of a Large-Scale VoD System and the Implications on Content Delivery", IEEE Transactions on Multimedia, 2015
+*   <span style="color:blue">[INFOCOM 14]</span> Zhenyu Li, Gaogang Xie, Jiali Lin, Yun Jin, Mohamed Ali Kaafar, Kave Salamatian, "On the geographic patterns of a large-scale mobile video-on-demand system", IEEE INFOCOM, 2014
+*   <span style="color:blue">[Network 14]</span> Qinghua Wu, Zhenyu Li, Jianer Zhou, Heng Jiang, Zhiyang Hu, Yunjie Liu, Gaogang Xie, "SOFIA: toward service-oriented information centric networking", IEEE Network, 2014
+*   <span style="color:blue">[ICNP 13]</span> Yonggong Wang, Zhenyu Li, Gareth Tyson, Steve Uhlig, Gaogang Xie, "Optimal cache allocation for Content-Centric Networking", IEEE ICNP, 2013
+*   <span style="color:blue">[TNSM 13]</span> Zhenyu Li, Jiali Lin, Kave Salamatian, Gaogang Xie, "Social Connections in User-Generated Content Video Systems: Analysis and Recommendation", IEEE Transactions on Network and Service Management, 2013
+*   <span style="color:blue">[Comms. 13]</span> Jiali Lin, Zhenyu Li, Gaogang Xie, Yi Sun, Kave Salamatian, Wenjie Wang, "Mobile video popularity distributions and the potential of peer-assisted video delivery", IEEE Communications Magazine, 2013
+*   <span style="color:blue">[Network 13]</span> Yi Sun, Yang Guo, Zhenyu Li, Jiali Lin, Gaogang Xie, Xiaobing Zhang, Kave Salamatian, "The case for P2P mobile video system over wireless broadband networks: A practical study of challenges for a mobile video provider", IEEE Network, 2013
+*   <span style="color:blue">[IMC 12]</span> Zhenyu Li, Jiali Lin, Marc-Ismael Akodjenou, Gaogang Xie, Mohamed Ali Kaafar, Yun Jin, Gang Peng, "Watching videos from everywhere: a study of the PPTV mobile VoD system", ACM IMC, 2012
+*   <span style="color:blue">[ICPP 12]</span> Zhenyu Li, Gaogang Xie, Kave Salamatian, "Exploiting Interest Locality for Peer-Assisted Search in UGC Video Systems", ICPP, 2012
+*   <span style="color:blue">[IWQoS 11] </span> Zhenyu Li, Rong Gu, Gaogang Xie, "Measuring and enhancing the social connectivity of UGC video systems: A case study of YouKu", IEEE IWQoS, 2011
+*   <span style="color:blue">[TPDS 11] </span> Zhenyu Li, Gaogang Xie, Kai Hwang, Zhongcheng Li, "Churn-Resilient Protocol for Massive Data Dissemination in P2P Networks", IEEE Transactions on Parallel and Distributed Systems, 2011
 *   <span style="color:blue">[Book Chapter]</span> Zhenyu Li, Kai Hwang, Gaogang Xie, ''Peer-to-Peer Computing and Overlay Networks", in Distributed and Cloud Computing, editors: K. Hwang, G. Fox, and J. Dongarra, Morgan Kauffmann, 2011.10, pp.479-544 
 
 
