@@ -7,6 +7,7 @@ author_profile: true
 
 Content Delivery
 ======
+* <span style="color:blue">[SIGCOMM 22]</span> Jinyang Li, Zhenyu Li, Ri Lu, Kai Xiao, Songlin Li, Jufeng Chen, Jingyu Yang, Chunli Zong, Aiyun Chen, Qinghua Wu, Chen Sun, Gareth Tyson and Hongqiang Harry Liu, "LiveNet: A Low-Latency Video Transport Network for Large-Scale Live Streaming", ACM SIGCOMM, 2022
 * <span style="color:blue">[INFOCOM 22]</span> Jinyang Li, Zhenyu Li, Qinghua Wu, and Gareth Tyson, "On Uploading Behavior and Optimizations of a Mobile Live Streaming Service", IEEE INFOCOM, 2022
 * <span style="color:blue">[TMC 21]</span> Jinyang Li, Zhenyu Li, Gareth Tyson, and Gaogang Xie, "Characterising Usage Patterns and Privacy Risks of a Home Security Camera Service", IEEE Transactions on Mobile Computing, 2021
 * <span style="color:blue">[ATC 20]</span> Donghui Yang, Zhenyu Li, and Gareth Tyson, "A Deep Dive into DNS Query Failures'", USENIX Annual Technical Conference (ATC), 2020
