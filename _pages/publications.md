@@ -12,7 +12,14 @@ Content Delivery
 * <span style="color:blue">[TMC 21]</span> Jinyang Li, Zhenyu Li, Gareth Tyson, and Gaogang Xie, "Characterising Usage Patterns and Privacy Risks of a Home Security Camera Service", IEEE Transactions on Mobile Computing, 2021
 * <span style="color:blue">[ATC 20]</span> Donghui Yang, Zhenyu Li, and Gareth Tyson, "A Deep Dive into DNS Query Failures'", USENIX Annual Technical Conference (ATC), 2020
 * <span style="color:blue">[PAM 20]</span> Zhaohua Wang, Zhenyu Li, Minhui Xue, and Gareth Tyson, "Exploring the Eastern Frontier: A First Look at Mobile App Tracking in China", Passive and Active Measurement (PAM), 2020
-*  <span style="color:blue">[INFOCOM 20]</span> Jinyang Li, Zhenyu Li, Gareth Tyson, and Gaogang Xie, "Your Privilege Gives Your Privacy Away: An Analysis of a Home Security Camera Service", IEEE INFOCOM, 2020
+*  <span style="color:blue">[INFOCOM 20]</span> Jinyang Li, Zhenyu Li, Gareth Tyson, and Gaogang Xie, "Your Privilege Gives Your Privacy Away: An Analysis of a Home Security Camera Service", IEEE INFOCOM, 2020<a href="https://www.bbc.co.uk/sounds/play/m000l8qz">[BBC Radio]</a>
+<a href="https://edition.cnn.com/2020/07/06/tech/home-security-cameras-risks-scli-intl-scn/index.html">[CNN]</a>
+<a href="https://www.dailymail.co.uk/sciencetech/article-8493921/Wi-Fi-signals-hacked-criminals-tell-people-home-not-experts-warn.html">[Daily Mail]</a>
+<a href="https://www.thetimes.co.uk/article/home-security-cameras-give-out-clues-to-criminals-9t022gd8v">[Times]</a>
+<a href="https://inews.co.uk/news/technology/hackers-victim-routines-data-home-security-cameras-report-489605">[iNews]</a>
+<a href="https://www.cpomagazine.com/data-privacy/privacy-risks-found-in-home-security-cameras-allow-spying-without-having-to-watch-the-video-footage/">[CPO Magazin]</a>
+<a href="https://www.techtimes.com/articles/250910/20200707/study-suggests-burglars-can-use-home-security-cameras-to-know-if-youre-home-or-not.htm">[Tech Times]</a>
+<a href="https://www.popularmechanics.com/technology/security/a33236875/home-security-cameras-vulnerability-burglars/">[Popular Mechanics]</a>
 *  <span style="color:blue">[ToN 20]</span> Xiaocan Li, Kun Xie, Xin Wang, Gaogang Xie, DongliangXie, Zhenyu Li, Jigang Wen, Zulong Diao, and Tian Wang, "Quick and Accurate False Data Detection in Mobile Crowd Sensing", IEEE/ACM Transactions on Networking, 2020 
 *  <span style="color:blue">[ICDCS 19]</span> Xi Chen, Minghao Zhao, Xinlei Yang, Zhenhua Li, Yao Liu, Zhenyu Li, and Yunhao Liu, "The Cask Effect of Multi-source Content Delivery: Measurement and Mitigation", IEEE ICDCS, 2019
 *  <span style="color:blue">[INFOCOM 19]</span>  Kun Xie, Xiaocan Li, Xin Wang, Gaogang Xie, Dongliang Xie, Zhenyu Li, Jigang Wen, Zulong Diao, "Quick and Accurate False Data Detection in Mobile Crowd Sensing", IEEE INFOCOM, 2019
