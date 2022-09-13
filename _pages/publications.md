@@ -66,6 +66,8 @@ Transport Protocols & Systems
 
 Cloud Network
 ======
+* <span style="color:blue">[TPDS 22]</span> Penglai Cui, Heng Pan, Zhenyu Li, Penghao Zhang, Tianhao Miao, Jianer Zhou, Hongtao Guan, and
+Gaogang Xie. Enabling in-network Floating-point Arithmetic for Efficient Computation Offloading. IEEE Transactions on Parallel and Distributed Systems, 2022
 * <span style="color:blue">[TDSC 22]</span> Heng Pan, Zhenyu Li, Penghao Zhang, Penglai Cui, Kave Salamatian, and Gaogang Xie. Misconfiguration-free Compositional SDN for Cloud Networks. IEEE Transactions on Dependable and Secure Computing, 2022
 * <span style="color:blue">[ICCBR 22]</span> Fengrui Liu, Yang Wang, Zhenyu Li, Rui Ren, Hongtao Guan, Xian Yu, Xiaofan Chen and Gaogang Xie. MicroCBR: Case-based Reasoning on Spatio-temporal Fault Knowledge Graph for Microservices Troubleshooting. The International Conference on Case-Based Reasoning, 2022
 * <span style="color:blue">[WWW 22]</span> Ting Liu, Tianhao Miao, Qinghua Wu, Zhenyu Li, Guangxin He, Jiaoren Wu, Xingwu Yang, Gareth Tyson and Gaogang Xie. Demystifying Scaling Performance Bottlenecks in Distributed Deep Learning. ACM Web Conference (WWW), 2022
