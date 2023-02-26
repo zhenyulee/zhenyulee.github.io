@@ -14,10 +14,10 @@ Below I list the PhD students that had closely worked with me or are now working
 
 Current Students
 ======
-* Jinyang Li, 2017 -, Internet Video. Publications: 2 * INFOCOM, 2 * IEEE TMC, SIGCOMM 2022
-* Zhaohua Wang, 2017 -, Data Center Network. Publications: IMC 2021, PAM 2020, MSN 2019
+* Zhaohua Wang, 2017 -, Data Center Network. Publications: IEEE TPDS, IMC 2021, PAM 2020, MSN 2019
 * Penglai Cui, 2018 -, Programmable Network. Publications: ICNP 2021, IEEE TPDS
 * Ting Liu, 2019 -, Transport protocols & Net. for AI. Publications: WWW 2022
+* Jiaxing Zhang, 2020-, Transport protocols.
 * Zhiren Zhong, 2015 -, Transport protocols. Publications: INFOCOM 2022 (co-supervised with Prof. Gaogang Xie)
 * Gerui Lv, 2016 -, Video transport. Publications: INFOCOM 2022
 * Yu Tian, 2021 -, [TBD] 
@@ -26,6 +26,7 @@ Current Students
 
 Alumni:
 ======
+* Jinyang Li, 2017 -, Internet Video. Publications: 2 * INFOCOM, 2 * IEEE TMC, SIGCOMM 2022. First Job: Huawei
 * Donghui Yang, 2016 - 2022, Internet Measurement. Publications: ATC 2020, JCST 2022, PAM 2018, ComNet 2022. First Job: CNCERT
 * Penghao Zhang, 2017 - 2022, Programmable Network. Publications: INFOCOM 2021, IEEE TPDS (co-supervised with Prof. Gaogang Xie). First Job: Shanxi Univ.
 * Furong Yang, 2014 - 2022, Transport protocols. Publications: 2 Computer Networks (co-supervised with Prof. Gaogang Xie). First Job: Alibaba
