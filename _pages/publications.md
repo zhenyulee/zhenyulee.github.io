@@ -52,7 +52,7 @@ Content Delivery
 
 Transport Protocols & Systems 
 ======
-* <span style="color:blue">[ToN 22]</span> Jianer Zhou, Xinyi Qiu, Zhenyu Li, Qing Li, Gareth Tyson, Jingpu Duan, Yi Wang, Heng Pan, and Qinghua Wu, A Machine Learning-based Framework for Dynamic Selection of Congestion Control Algorithms", IEEE/ACM Trans. on Networking, 2022
+* <span style="color:blue">[ComNet 23]</span> Jianer Zhou, Zengxie Ma, Weijian Tu, Xinyi Qiu, Jingpu Duan, Zhenyu Li, Qing Li, Xinyi Zhang, Weichao Li, Cable: A framework for accelerating 5G UPF based on eBPF, Computer Networks, 2023
 * <span style="color:blue">[TMC 22]</span> Zhenyu Li, Jinyang Li, Qinghua Wu, Gareth Tyson, and Gaogang Xie, "A Large-Scale Measurement and Optimization of Mobile Live Streaming Services", IEEE Trans. Mobile Computing, 2022
 * <span style="color:blue">[INFOCOM 22]</span> Zhiren Zhong, Wei Wang, Yiyang Shao, Zhenyu Li, Heng Pan, Hongtao Guan, Gareth Tyson, Gaogang Xie, and Kai Zheng, "Muses: Enabling Lightweight Learning-Based Congestion Control for Mobile Devices", IEEE INFOCOM, 2022
 * <span style="color:blue">[INFOCOM 22]</span> Gerui Lv, Qinghua Wu, Weiran Wang, Zhenyu Li and Gaogang Xie, "Lumos: towards Better Video Streaming QoE through Accurate Throughput Prediction", IEEE INFOCOM, 2022
@@ -69,6 +69,7 @@ Transport Protocols & Systems
 
 Cloud Network
 ======
+* <span style="color:blue">[TPDS 23]</span> Zhaohua Wang, Zhenyu Li, Heng Pan, Guangming Liu, Yunfei Chen, Qinghua Wu, Gareth Tyson, Gang Cheng. Large-Scale Measurements and Prediction of DC-WAN Traffic, in IEEE Transactions on Parallel and Distributed Systems, doi: 10.1109/TPDS.2023.3245092.
 * <span style="color:blue">[TPDS 22]</span> Penglai Cui, Heng Pan, Zhenyu Li, Penghao Zhang, Tianhao Miao, Jianer Zhou, Hongtao Guan, and
 Gaogang Xie. Enabling in-network Floating-point Arithmetic for Efficient Computation Offloading. IEEE Transactions on Parallel and Distributed Systems, 2022
 * <span style="color:blue">[TDSC 22]</span> Heng Pan, Zhenyu Li, Penghao Zhang, Penglai Cui, Kave Salamatian, and Gaogang Xie. Misconfiguration-free Compositional SDN for Cloud Networks. IEEE Transactions on Dependable and Secure Computing, 2022
