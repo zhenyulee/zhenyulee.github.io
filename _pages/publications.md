@@ -36,7 +36,6 @@ Content Delivery
 *   <span style="color:blue">[WWW 15]</span> Zhenyu Li, Mohamed Ali Kaafar, Kave Salamatian, Gaogang Xie, "User Behavior Characterization of a Large-scale Mobile Live Streaming System", ACM WWW-web science track, 2015
 *   <span style="color:blue">[TMM 20]</span> Zhenyu Li, Qinghua Wu, Kave Salamatian, Gaogang Xie, "Video Delivery Performance of a Large-Scale VoD System and the Implications on Content Delivery", IEEE Transactions on Multimedia, 2015
 *   <span style="color:blue">[INFOCOM 14]</span> Zhenyu Li, Gaogang Xie, Jiali Lin, Yun Jin, Mohamed Ali Kaafar, Kave Salamatian, "On the geographic patterns of a large-scale mobile video-on-demand system", IEEE INFOCOM, 2014
-*   <span style="color:blue">[Network 14]</span> Qinghua Wu, Zhenyu Li, Jianer Zhou, Heng Jiang, Zhiyang Hu, Yunjie Liu, Gaogang Xie, "SOFIA: toward service-oriented information centric networking", IEEE Network, 2014
 *   <span style="color:blue">[ICNP 13]</span> Yonggong Wang, Zhenyu Li, Gareth Tyson, Steve Uhlig, Gaogang Xie, "Optimal cache allocation for Content-Centric Networking", IEEE ICNP, 2013
 *   <span style="color:blue">[TNSM 13]</span> Zhenyu Li, Jiali Lin, Kave Salamatian, Gaogang Xie, "Social Connections in User-Generated Content Video Systems: Analysis and Recommendation", IEEE Transactions on Network and Service Management, 2013
 *   <span style="color:blue">[Comms. 13]</span> Jiali Lin, Zhenyu Li, Gaogang Xie, Yi Sun, Kave Salamatian, Wenjie Wang, "Mobile video popularity distributions and the potential of peer-assisted video delivery", IEEE Communications Magazine, 2013
@@ -65,6 +64,7 @@ Transport Protocols & Systems
 * <span style="color:blue">[Comm. 16]</span> Zhenyu Li, Mohamed-Ali Kaafar, and Gaogang Xie, "Session throughput prediction for Internet videos", IEEE Communications magazine, Nov. 2016
 * <span style="color:blue">[IMC 16]</span> Zhenyu Li, Xiaohui Wang, Ningjing Huang, Mohamed Ali Kaafar, Zhenhua Li, Jianer Zhou, Gaogang Xie, Peter Steenkiste, "An Empirical Analysis of a Large-scale Mobile Cloud Storage Service", ACM IMC, 2016
 * <span style="color:blue">[CoNEXT 15]</span> Jianer Zhou, Qinghua Wu, Zhenyu Li, Steve Uhlig, Peter Steenkiste, Jian Chen, Gaogang Xie, "Demystifying and Mitigating TCP Stalls at the Server Side", ACM CoNEXT, 2015 
+* <span style="color:blue">[Network 14]</span> Qinghua Wu, Zhenyu Li, Jianer Zhou, Heng Jiang, Zhiyang Hu, Yunjie Liu, Gaogang Xie, "SOFIA: toward service-oriented information centric networking", IEEE Network, 2014
 
 
 
