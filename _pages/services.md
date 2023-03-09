@@ -7,8 +7,8 @@ permalink: /services/
 TPC Member
 ======
 
-* IEEE INFOCOM 2019, 2020 (Distinguished TPC Award), 2021, 2022, 2023
-* IEEE ICNP 2019, 2020, 2022
+* IEEE INFOCOM 2019, 2020 (Distinguished TPC Award), 2021, 2022, 2023 (Distinguished TPC Award)
+* IEEE ICNP 2019, 2020, 2022, 2023
 * IFIP Networking 2021
 * ACM SIGCOMM Poster/demo 2019
 * ACM SIGCOMM AINTEC 2016, 2017
