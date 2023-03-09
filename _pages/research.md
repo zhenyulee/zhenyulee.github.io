@@ -26,4 +26,4 @@ Grants (Since 2016):
 * <span style="font-weight:bold">[CAS]</span> AI-based Anomaly Diagnosis and Traffic Prediction for Service Orchestration and Placement in Clouds, CAS-Austria, 2021 - 2023
 * <span style="font-weight:bold">[MOST]</span> Large-scale measurement of Network Behavior, National Key R&D Program, 2019-2022
 * <span style="font-weight:bold">[CAS]</span> Future Network Architecture and Protocols, Project for Excellent Member of the Youth Innovation Promotion Association, 2018-2020
-* <span style="font-weight:bold">[Industry]</span> Transport protocols for mobile networks, high-throughput DCN, network for AI. 
+* <span style="font-weight:bold">[Industry]</span> Content Delivery Network, Transport protocols, High-throughput DCN, Network for AI. 
