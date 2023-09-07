@@ -14,17 +14,16 @@ Below I list the PhD students that had closely worked with me or are now working
 
 Current Students
 ======
-* Penglai Cui, 2018 -, Programmable Network. Publications: ICNP 2021, IEEE TPDS
 * Ting Liu, 2019 -, Transport protocols & Net. for AI. Publications: WWW 2022
 * Jiaxing Zhang, 2020-, Transport protocols.Publications: NSDI 24
-* Zhiren Zhong, 2015 -, Transport protocols. Publications: INFOCOM 2022 (co-supervised with Prof. Gaogang Xie)
 * Gerui Lv, 2016 -, Video transport. Publications: INFOCOM 2022
 * Yu Tian, 2021 -, Content Delivery Networks.
 * Xingguo Long, 2021 -, Programmable Network.
-* Dingwei Liu, 2022 -, Thread identification using GNN.
+* Dingwei Liu, 2022 -, Thread detection using GNN.
 
 Alumni:
 ======
+* Penglai Cui, 2018 - 2023, Programmable Network. Publications: ICNP 2021, IEEE TPDS. First Job: Huawei
 * Zhaohua Wang, 2017 - 2023, Data Center Network. Publications: IEEE TPDS, IMC 2021, PAM 2020, MSN 2019. First Job: CNIC, CAS
 * Jinyang Li, 2017 - 2022, Internet Video. Publications: 2 * INFOCOM, 2 * IEEE TMC, SIGCOMM 2022. First Job: Huawei
 * Donghui Yang, 2016 - 2022, Internet Measurement. Publications: ATC 2020, JCST 2022, PAM 2018, ComNet 2022. First Job: CNCERT
