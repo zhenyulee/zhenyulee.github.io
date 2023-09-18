@@ -75,7 +75,7 @@ Transport Protocols & Systems
 
 DCN & Cloud Network
 ======
-* <span style="color:blue">[EuroSys 23]</span> Heng Pan, Peng He, Zhenyu Li, Pan Zhang, Junjie Wan, Yuhao Zhou, Xiongchun Duan, Yu Zhang, Gaogang Xie. Hoda: a High-performance Open vSwitch Dataplane with Multiple Specialized Data Paths, in ACM EuroSys, 2024.
+* <span style="color:blue">[EuroSys 24]</span> Heng Pan, Peng He, Zhenyu Li, Pan Zhang, Junjie Wan, Yuhao Zhou, Xiongchun Duan, Yu Zhang, Gaogang Xie. Hoda: a High-performance Open vSwitch Dataplane with Multiple Specialized Data Paths, in ACM EuroSys, 2024.
 * <span style="color:blue">[TPDS 23]</span> Zhaohua Wang, Zhenyu Li, Heng Pan, Guangming Liu, Yunfei Chen, Qinghua Wu, Gareth Tyson, Gang Cheng. Large-Scale Measurements and Prediction of DC-WAN Traffic, in IEEE Transactions on Parallel and Distributed Systems, doi: 10.1109/TPDS.2023.3245092.
 * <span style="color:blue">[IWQoS 23]</span> Rui Ren, Yang Wang, Fengrui Liu, Zhenyu Li, Gaogang Xie, Triple:The Interpretable Deep Learning Anomaly Detection framework based on Trace-Metric-Log of Microservice, IEEE IWQoS 2023
 * <span style="color:blue">[IWQoS 23]</span> Rui Ren, Yang Wang, Fengrui Liu, Zhenyu Li, Gareth Tyson, Tianhao Miao, Gaogang Xie, Grace: Interpretable Root Cause Analysis by Graph Convolutional Network for Microservices, IEEE IWQoS 2023
