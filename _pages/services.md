@@ -6,9 +6,10 @@ permalink: /services/
 
 TPC Member
 ======
-
-* IEEE INFOCOM 2019, 2020 (Distinguished TPC Award), 2021, 2022, 2023 (Distinguished TPC Award)
+* ACM CoNEXT 2024
+* IEEE INFOCOM 2019, 2020 (Distinguished TPC Award), 2021, 2022, 2023 (Distinguished TPC Award), 2024
 * IEEE ICNP 2019, 2020, 2022, 2023
+* SIAM International Conference on Data Mining (SDM’24)
 * IFIP Networking 2021
 * ACM SIGCOMM Poster/demo 2019
 * ACM SIGCOMM AINTEC 2016, 2017
