@@ -7,6 +7,7 @@ author_profile: true
 
 Content Delivery
 ======
+* <span style="color:blue">[PAM 24]</span> Yu Tian,Zhenyu Li, Dom-BERT: Detecting Malicious Domains with Pre-training Model, PAM 2024
 * <span style="color:blue">[AINTEC 23]</span> Zhenyu Li, Yiwen Huang, A First Look into the Third-Party Web Dependencies in China, ACM AINTEC 2023
 * <span style="color:blue">[ICN 23]</span> Xingguo Long, Kun Huang, Rongwei Yang, Qingguo Dai, Zhenyu Li "Pegasus: A High-Speed NDN Router with Programmable Switches and Server Clusters", ACM ICN, 2023
 * <span style="color:blue">[SIGCOMM 22]</span> Jinyang Li, Zhenyu Li, Ri Lu, Kai Xiao, Songlin Li, Jufeng Chen, Jingyu Yang, Chunli Zong, Aiyun Chen, Qinghua Wu, Chen Sun, Gareth Tyson and Hongqiang Harry Liu, "LiveNet: A Low-Latency Video Transport Network for Large-Scale Live Streaming", ACM SIGCOMM, 2022
