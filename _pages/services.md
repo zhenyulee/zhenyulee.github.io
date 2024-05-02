@@ -11,11 +11,18 @@ TPC Member
 * IEEE ICNP 2019, 2020, 2022, 2023
 * SIAM International Conference on Data Mining (SDM’24)
 * IFIP Networking 2021
+* IEEE MetaCom 2023, 2024
 * ACM SIGCOMM Poster/demo 2019
 * ACM SIGCOMM AINTEC 2016, 2017
 * ACM ICN Poster/demo 2015, 2017
 * ACM CoNext Student Workshop 2015
 * IEEE Conf. IoT 2015
+
+Organizing Committee
+======
+* ACM SIGCOMM 2024: Travel-grant Co-chair
+* TMA 2020：Publicity Co-chair
+* APNET 2019: Local Arrangement Co-chair
 
 Journal Reviewer
 ======
