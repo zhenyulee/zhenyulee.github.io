@@ -55,6 +55,7 @@ Content Delivery
 
 Transport Protocols & Systems 
 ======
+* <span style="color:blue">[NOSSDAV 24]</span> Yuankang Zhao, Qinghua Wu, Gerui Lv, Furong YANG, Jiuhai Zhang, Feng Peng, Yammei Liu, Zhenyu Li, Ying Chen, Hongyu Guo, Gaogang Xie, JitBright: towards Low-Latency Mobile Cloud Rendering through Jitter Buffer Optimization, NOSSDAV 2024 (Best paper award)
 * <span style="color:blue">[MobiCom 24]</span>Gerui Lv, Qinghua Wu, Yanmei Liu, Zhenyu Li, Qingyue Tan, Furong Yang, Wentao Chen, Yunfei Ma, hongyu Guo, Ying Chen, Gaogang Xie, Chorus: Coordinating Mobile Multipath Scheduling and Adaptive Video Streaming, ACM Mobicom 2024
 * <span style="color:blue">[ICNP 23]</span> Furong Yang, Zhenyu Li, Jianer Zhou, Xinyi Zhang, Qinghua Wu, Giovanni Pau, Gaogang Xie, "Disco: A Framework for Dynamic Selection of Multipath Congestion Control Algorithms", IEEE ICNP, 2023
 * <span style="color:blue">[NSDI 24] </span>Jiaxing Zhang, Furong Yang, Ting Liu, Qinghua Wu, Wu Zhao, Yuanbo Zhang, Wentao Chen, Yanmei Liu, Hongyu Guo, Yunfei Ma, Zhenyu Li, TECC: Towards Efficient QUIC Tunneling via Collaborative Transmission Control, USENIX NSDI 2024
