@@ -80,7 +80,7 @@ Transport Protocols & Systems
 DCN & Cloud Network
 ======
 * <span style="color:blue">[ICNP 24]</span> Kai Lv, Heng Pan, Chengjun Jia, Jiaxing Zhang, Luyang Li, Jianer Zhou, Yanbiao Li, Zhenyu Li, Gaogang Xie, Roundabout: Solving PFC Deadlocks with Distributed Detection and Buffer Collaboration, IEEE ICNP 2024.
-* * <span style="color:blue">[ICNP 24]</span> Heng Pan, Penglai Cui, Zhenyu Li, Ru Jia, Penghao Zhang, Leilei Zhang, Ye Yang, Jiahao Wu, Mathy Laurent, Gaogang Xie, Zebra: Accelerating Distributed Sparse Deep Training with In-network Gradient Aggregation for Hot Parameters, IEEE ICNP 2024.
+* <span style="color:blue">[ICNP 24]</span> Heng Pan, Penglai Cui, Zhenyu Li, Ru Jia, Penghao Zhang, Leilei Zhang, Ye Yang, Jiahao Wu, Mathy Laurent, Gaogang Xie, Zebra: Accelerating Distributed Sparse Deep Training with In-network Gradient Aggregation for Hot Parameters, IEEE ICNP 2024.
 * <span style="color:blue">[EuroSys 24]</span> Heng Pan, Peng He, Zhenyu Li, Pan Zhang, Junjie Wan, Yuhao Zhou, Xiongchun Duan, Yu Zhang, Gaogang Xie. Hoda: a High-performance Open vSwitch Dataplane with Multiple Specialized Data Paths, in ACM EuroSys, 2024.
 * <span style="color:blue">[TPDS 23]</span> Zhaohua Wang, Zhenyu Li, Heng Pan, Guangming Liu, Yunfei Chen, Qinghua Wu, Gareth Tyson, Gang Cheng. Large-Scale Measurements and Prediction of DC-WAN Traffic, in IEEE Transactions on Parallel and Distributed Systems, doi: 10.1109/TPDS.2023.3245092.
 * <span style="color:blue">[IWQoS 23]</span> Rui Ren, Yang Wang, Fengrui Liu, Zhenyu Li, Gaogang Xie, Triple:The Interpretable Deep Learning Anomaly Detection framework based on Trace-Metric-Log of Microservice, IEEE IWQoS 2023
