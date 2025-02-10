@@ -5,8 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 
-Content Delivery
+Data-driven Networking
 ======
+* <span style="color:blue">[SECURITY 25]</span> Wenhao Wu, Zhenyu Li, Xilai Liu, Zhaohua Wang, Heng Pan, Guangxing Zhang, Gaogang Xie, Lemon: Network-wide DDoS Detection with Routing-Oblivious Per-flow Measurement, USENIX SECURITY 2025
+* <span style="color:blue">[WWW 25]</span> Wenhao Wu, Zhaohua Wang, Li Qinxin, Zihan Li, Yi Li, Jin Yan, Zhenyu Li, ODNS Clustering: Unveiling Client-side Dependency in Open DNS Infrastructure, ACM WWW 2025
 * <span style="color:blue">[IMC 24]</span> Yu Tian, Zhenyu Li, Gareth Tyson, Gaogang Xie, Cost-Saving Streaming: Unlocking the Potential of Alternative Edge Node Resources, ACM IMC 2024
 * <span style="color:blue">[APNET 24]</span> Enhan Li, Wenhao Wu, Zhaohua Wang, Zhenyu Li, Jianwei Niu, SAROS: A Self-Adaptive Routing Oblivious Sampling Method for Network-wide Heavy Hitter Detection ACM APNET 2024
 * <span style="color:blue">[PAM 24]</span> Yu Tian, Zhenyu Li, Dom-BERT: Detecting Malicious Domains with Pre-training Model, PAM 2024
@@ -81,6 +83,7 @@ Transport Protocols & Systems
 
 DCN & Cloud Network
 ======
+* <span style="color:blue">[ASPLOS 25]</span> Luyang Li, Heng Pan, Xinchen Wan, Kai Lv, Zilong Wang, Qian Zhao,Feng Ning, Qingsong Ning, Shideng Zhang, Zhenyu Li, Layong Luo, Gaogang Xie, A Unified Framework for Heterogeneous FPGA Acceleration in the Cloud, ACM ASPLOS 2025.
 * <span style="color:blue">[ICNP 24]</span> Kai Lv, Heng Pan, Chengjun Jia, Jiaxing Zhang, Luyang Li, Jianer Zhou, Yanbiao Li, Zhenyu Li, Gaogang Xie, Roundabout: Solving PFC Deadlocks with Distributed Detection and Buffer Collaboration, IEEE ICNP 2024.
 * <span style="color:blue">[ICNP 24]</span> Heng Pan, Penglai Cui, Zhenyu Li, Ru Jia, Penghao Zhang, Leilei Zhang, Ye Yang, Jiahao Wu, Mathy Laurent, Gaogang Xie, Zebra: Accelerating Distributed Sparse Deep Training with In-network Gradient Aggregation for Hot Parameters, IEEE ICNP 2024.
 * <span style="color:blue">[EuroSys 24]</span> Heng Pan, Peng He, Zhenyu Li, Pan Zhang, Junjie Wan, Yuhao Zhou, Xiongchun Duan, Yu Zhang, Gaogang Xie. Hoda: a High-performance Open vSwitch Dataplane with Multiple Specialized Data Paths, in ACM EuroSys, 2024.
