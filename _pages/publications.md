@@ -59,6 +59,7 @@ Data-driven Networking
 
 Transport Protocols & Systems 
 ======
+* <span style="color:blue">[TNET 2025]</span> Jianer Zhou, Zhiyuan Pan, Zhenyu Li, Gareth Tyson, Weichao Li, Xinyi Qiu, Heng Pan, Xinyi Zhang, Gaogang Xie, Safety in DRL-Based Congestion Control: A Framework Empowered by Expert Refinement, IEEE Trans. Networking, 2025
 * <span style="color:blue">[ATC 2025]</span> Yuankang Zhao, Furong YANG,  Gerui Lv, Qinghua Wu, Yammei Liu, Jiuhai Zhang, Yutang Peng， Feng Peng, Hongyu Guo, Ying Chen, Zhenyu Li, Gaogang Xie, MARC: Motion-Aware Rate Control for Mobile E-commerce Cloud Rendering, USENIX ATC 2025 
 * <span style="color:blue">[NOSSDAV 24]</span> Yuankang Zhao, Qinghua Wu, Gerui Lv, Furong YANG, Jiuhai Zhang, Feng Peng, Yammei Liu, Zhenyu Li, Ying Chen, Hongyu Guo, Gaogang Xie, JitBright: towards Low-Latency Mobile Cloud Rendering through Jitter Buffer Optimization, NOSSDAV 2024 (Best paper award)
 * <span style="color:blue">[MobiCom 24]</span>Gerui Lv, Qinghua Wu, Yanmei Liu, Zhenyu Li, Qingyue Tan, Furong Yang, Wentao Chen, Yunfei Ma, hongyu Guo, Ying Chen, Gaogang Xie, Chorus: Coordinating Mobile Multipath Scheduling and Adaptive Video Streaming, ACM Mobicom 2024
