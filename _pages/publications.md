@@ -59,6 +59,7 @@ Data-driven Networking
 
 Transport Protocols & Systems 
 ======
+* <span style="color:blue">[TNET 2025]</span>  Yuankang Zhao, Qinghua Wu, Gerui Lv, Furong Yang, Jiuhai Zhang, Feng Peng, Yanmei Liu, Zhenyu Li, Hongyu Guo, Ying Chen, Gaogang Xie, Understanding and Taming the Inflated Latency in Mobile Cloud Rendering, ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), 2025 
 * <span style="color:blue">[TNET 2025]</span> Jianer Zhou, Zhiyuan Pan, Zhenyu Li, Gareth Tyson, Weichao Li, Xinyi Qiu, Heng Pan, Xinyi Zhang, Gaogang Xie, Safety in DRL-Based Congestion Control: A Framework Empowered by Expert Refinement, IEEE Trans. Networking, 2025
 * <span style="color:blue">[ATC 2025]</span> Yuankang Zhao, Furong YANG,  Gerui Lv, Qinghua Wu, Yammei Liu, Jiuhai Zhang, Yutang Peng， Feng Peng, Hongyu Guo, Ying Chen, Zhenyu Li, Gaogang Xie, MARC: Motion-Aware Rate Control for Mobile E-commerce Cloud Rendering, USENIX ATC 2025 
 * <span style="color:blue">[NOSSDAV 24]</span> Yuankang Zhao, Qinghua Wu, Gerui Lv, Furong YANG, Jiuhai Zhang, Feng Peng, Yammei Liu, Zhenyu Li, Ying Chen, Hongyu Guo, Gaogang Xie, JitBright: towards Low-Latency Mobile Cloud Rendering through Jitter Buffer Optimization, NOSSDAV 2024 (Best paper award)
@@ -85,6 +86,7 @@ Transport Protocols & Systems
 
 DCN & Cloud Network
 ======
+* <span style="color:blue">[COMNET 25]</span> Xingguo Long, Kun Huang, Rongwei Yang, Qingguo Dai, Zhenyu Li, Pegasus: A practical high-speed cross-platform NDN forwarder, Computer Networks, 2025
 * <span style="color:blue">[APNET 25]</span> Kai Lv, Jinyang Li, Pengyi Zhang, Heng Pan, Luyang Li, Shuaihai Hu, Zhenyu Li, Gaogang Xie, Jingbin Zhou, Kun Tan, OmniDMA: Scalable RDMA Transport over WAN, ACM APNET 2025
 * <span style="color:blue">[ATC 25]</span> Qiaoyin Gan, Heng Pan, Luyang Li, Kai Lv, Hongtao Guan, Zhaohua Wang, Zhenyu Li, Gaogang Xie, SNARY: A High-Performance and Generic SmartNIC-accelerated Retrieval System, USENIX ATC 2025
 * <span style="color:blue">[ASPLOS 25]</span> Luyang Li, Heng Pan, Xinchen Wan, Kai Lv, Zilong Wang, Qian Zhao,Feng Ning, Qingsong Ning, Shideng Zhang, Zhenyu Li, Layong Luo, Gaogang Xie, A Unified Framework for Heterogeneous FPGA Acceleration in the Cloud, ACM ASPLOS 2025.
