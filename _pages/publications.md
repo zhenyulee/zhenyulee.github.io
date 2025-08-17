@@ -59,6 +59,7 @@ Data-driven Networking
 
 Transport Protocols & Systems 
 ======
+* <span style="color:blue">[RTSS 2025]</span>  Jiaxing Zhang, Qinghua Wu, Gerui Lv, Wenji Du, Qingyue Tan, Wanghong Yang, Kai Lv, Yuankang Zhao, Yongmao Ren, Zhenyu Li, Gaogang Xie, Predictable Real-Time Video Latency Control with Frame-level  Collaboration, IEEE RTSS 2025
 * <span style="color:blue">[TOMM 2025]</span>  Yuankang Zhao, Qinghua Wu, Gerui Lv, Furong Yang, Jiuhai Zhang, Feng Peng, Yanmei Liu, Zhenyu Li, Hongyu Guo, Ying Chen, Gaogang Xie, Understanding and Taming the Inflated Latency in Mobile Cloud Rendering, ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), 2025 
 * <span style="color:blue">[TNET 2025]</span> Jianer Zhou, Zhiyuan Pan, Zhenyu Li, Gareth Tyson, Weichao Li, Xinyi Qiu, Heng Pan, Xinyi Zhang, Gaogang Xie, Safety in DRL-Based Congestion Control: A Framework Empowered by Expert Refinement, IEEE Trans. Networking, 2025
 * <span style="color:blue">[ATC 2025]</span> Yuankang Zhao, Furong YANG,  Gerui Lv, Qinghua Wu, Yammei Liu, Jiuhai Zhang, Yutang Peng， Feng Peng, Hongyu Guo, Ying Chen, Zhenyu Li, Gaogang Xie, MARC: Motion-Aware Rate Control for Mobile E-commerce Cloud Rendering, USENIX ATC 2025 
