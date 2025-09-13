@@ -7,7 +7,9 @@ author_profile: true
 
 Data-driven Networking
 ======
-* <span style="color:blue">[EuroSys 26]</span> Y. Tian, G. Lv, Q. Wu, R. Fang, Y. Peng, Z. Xue, R. Han, C. Lin, X. Pang, J. Liu, Z. Li, RLive: Robust Delivery System for Scaling Live Streaming Services, ACM EuroSys 2026
+* <span style="color:blue">[CoNEXT 25]</span> Chuanqing Lin, Gerui Lv, Fuhua Zeng, Hanlin Yang, Junwei Li, Xiaodong Li, Jingyu Yang, Yu Tian, Qinghua Wu, Zhenyu Li, Gaogang Xie,  Oceanus: Scheduling Traffic Flows to Achieve Cost-Efficiency under Uncertainties in Large-Scale Edge CDNs, ACM CoNEXT 2025
+* <span style="color:blue">[CoNEXT 25]</span>  Yu Tian, Zhenyu Li, Matthew Yang Liu, Qinghua Wu, Zhaoxue Zhong, Ao Li, Jiaxing Zhang, Gerui Lv, Chuanqing Lin, Xi Wang, Jian Mao, Gareth Tyson, Jie Xiong, Zhenhua Li, Gaogang Xie, Cost-efficient Request Mapping for Large-scale Live Streaming Services, ACM CoNEXT 2025
+* <span style="color:blue">[EuroSys 26]</span> Yu Tian, Gerui Lv, Qinghua Wu, Ruili Fang, Yajie Peng, Zhichen Xue, Rui Han, Chuanqing Lin, Xiaofei Pang, Jingxing Liu, Zhenyu Li, RLive: Robust Delivery System for Scaling Live Streaming Services, ACM EuroSys 2026
 * <span style="color:blue">[SECURITY 25]</span> Wenhao Wu, Zhenyu Li, Xilai Liu, Zhaohua Wang, Heng Pan, Guangxing Zhang, Gaogang Xie, Lemon: Network-wide DDoS Detection with Routing-Oblivious Per-flow Measurement, USENIX SECURITY 2025
 * <span style="color:blue">[WWW 25]</span> Wenhao Wu, Zhaohua Wang, Li Qinxin, Zihan Li, Yi Li, Jin Yan, Zhenyu Li, ODNS Clustering: Unveiling Client-side Dependency in Open DNS Infrastructure, ACM WWW 2025
 * <span style="color:blue">[IMC 24]</span> Yu Tian, Zhenyu Li, Gareth Tyson, Gaogang Xie, Cost-Saving Streaming: Unlocking the Potential of Alternative Edge Node Resources, ACM IMC 2024
@@ -88,6 +90,7 @@ Transport Protocols & Systems
 
 DCN & Cloud Network
 ======
+* <span style="color:blue">[CoNEXT 25]</span> Luyang Li, Heng Pan, Pengyi Zhang, Kai Lv, Zilong Wang, Xinchen Wan, Dai Zhang, Xiaolong Zhong, Haoran Wei, Lichao Liu, Huichen Dai, Qingsong Ning, Xin Wei, Shideng Zhang, Hongtao GUAN, Zhenyu Li, Gaogang Xie， Taurus: Towards A High-Performance and Generic Congestion  Control Framework for Datacenter Networks, ACM CoNEXT 2025
 * <span style="color:blue">[COMNET 25]</span> Xingguo Long, Kun Huang, Rongwei Yang, Qingguo Dai, Zhenyu Li, Pegasus: A practical high-speed cross-platform NDN forwarder, Computer Networks, 2025
 * <span style="color:blue">[APNET 25]</span> Kai Lv, Jinyang Li, Pengyi Zhang, Heng Pan, Luyang Li, Shuaihai Hu, Zhenyu Li, Gaogang Xie, Jingbin Zhou, Kun Tan, OmniDMA: Scalable RDMA Transport over WAN, ACM APNET 2025
 * <span style="color:blue">[ATC 25]</span> Qiaoyin Gan, Heng Pan, Luyang Li, Kai Lv, Hongtao Guan, Zhaohua Wang, Zhenyu Li, Gaogang Xie, SNARY: A High-Performance and Generic SmartNIC-accelerated Retrieval System, USENIX ATC 2025
