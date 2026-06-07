@@ -8,7 +8,6 @@ author_profile: true
 Networked Systems for AI and Clouds
 ======
 * <span style="color:blue">[SIGCOMM 26]</span> Ting Liu, Qinghua Wu, Jun Zhou, Yuan Sun, Jingbin Yang, Jinglei Pei, Chen Zhang, Heng Pan, Zhenyu Li, Yunjie Liu, GeoOrchestra: Orchestrating Heterogeneous Geo-Distributed Training with Network-Aware Scheduling, ACM SIGCOMM 2026
-* <span style="color:blue">[APNET 25]</span> Kai Lv, Jinyang Li, Pengyi Zhang, Heng Pan, Luyang Li, Shuaihai Hu, Zhenyu Li, Gaogang Xie, Jingbin Zhou, Kun Tan, OmniDMA: Scalable RDMA Transport over WAN, ACM APNET 2025
 * <span style="color:blue">[ATC 25]</span> Qiaoyin Gan, Heng Pan, Luyang Li, Kai Lv, Hongtao Guan, Zhaohua Wang, Zhenyu Li, Gaogang Xie, SNARY: A High-Performance and Generic SmartNIC-accelerated Retrieval System, USENIX ATC 2025
 * <span style="color:blue">[ASPLOS 25]</span> Luyang Li, Heng Pan, Xinchen Wan, Kai Lv, Zilong Wang, Qian Zhao,Feng Ning, Qingsong Ning, Shideng Zhang, Zhenyu Li, Layong Luo, Gaogang Xie, A Unified Framework for Heterogeneous FPGA Acceleration in the Cloud, ACM ASPLOS 2025.
 * <span style="color:blue">[ICNP 24]</span> Kai Lv, Heng Pan, Chengjun Jia, Jiaxing Zhang, Luyang Li, Jianer Zhou, Yanbiao Li, Zhenyu Li, Gaogang Xie, Roundabout: Solving PFC Deadlocks with Distributed Detection and Buffer Collaboration, IEEE ICNP 2024.
@@ -95,3 +94,6 @@ Gaogang Xie. Enabling in-network Floating-point Arithmetic for Efficient Computa
 * <span style="color:blue">[TPDS 22]</span> Penghao Zhang, Heng Pan, Zhenyu Li, Penglai Cui, Ru Jia, Peng He, Zhibin Zhang, Gareth Tyson, and Gaogang Xie, "NetSHa: In-network Acceleration of LSH-based Distributed Search", IEEE Transactions on Parallel and Distributed Systems, 2022
 * <span style="color:blue">[TOMPECS 18]</span> Zhenhua Li, Yongfeng Zhang, Yunhao Liu, Tianyin Xu, Ennan Zhai, Yao Liu, Xiaobo Ma, Zhenyu Li, A Quantitative and Comparative Study of Network-level Efficiency for Cloud Storage Services, ACM Transactions on Modeling and Performance Evaluation of Computing Systems (TOMPECS), 2018.
 
+Workshops 
+======
+* <span style="color:blue">[APNET 25]</span> Kai Lv, Jinyang Li, Pengyi Zhang, Heng Pan, Luyang Li, Shuaihai Hu, Zhenyu Li, Gaogang Xie, Jingbin Zhou, Kun Tan, OmniDMA: Scalable RDMA Transport over WAN, ACM APNET 2025
