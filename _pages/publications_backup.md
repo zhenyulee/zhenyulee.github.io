@@ -7,6 +7,7 @@ author_profile: true
 
 Data-driven Networking
 ======
+* <span style="color:blue">[WWW 26]</span> Jiahao Wu, Heng Pan, Kai Lv, Zhenyu Li, Yanbiao Li, Gaogang Xie, TurboRetry: Mitigating Large-Scale QUIC Handshake Floods with Off-the-shelf DPU Offloading, ACM CCS 2026
 * <span style="color:blue">[WWW 26]</span> Wenhao Wu, Zhaohua Wang, Zihan Li, Qinxin Li, Yiming Xia, Chuan Gao, Guangxing Zhang and Zhenyu Li, Tracking the Stray Sheep: Understanding DNS Response Manipulation in the Wild, WWW 2026
 * <span style="color:blue">[WWW 26]</span> Qinxin Li, Zhaohua Wang, Wenhao Wu, Zihan Li, Yiming Xia, Chuan Gao and Zhenyu Li, Balancing Privacy and Security of QNAME Minimisation, WWW 2026
 * <span style="color:blue">[CoNEXT 25]</span> Chuanqing Lin, Gerui Lv, Fuhua Zeng, Hanlin Yang, Junwei Li, Xiaodong Li, Jingyu Yang, Yu Tian, Qinghua Wu, Zhenyu Li, Gaogang Xie,  Oceanus: Scheduling Traffic Flows to Achieve Cost-Efficiency under Uncertainties in Large-Scale Edge CDNs, ACM CoNEXT 2025
