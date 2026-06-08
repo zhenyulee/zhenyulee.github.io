@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Publications (Since 2010)"
-permalink: /publications/
+permalink: /publications_backups/
 author_profile: true
 ---
 
