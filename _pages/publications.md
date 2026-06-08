@@ -97,4 +97,10 @@ Gaogang Xie. Enabling in-network Floating-point Arithmetic for Efficient Computa
 
 Workshops 
 ======
+* <span style="color:blue">[APNET 26]</span> M. Qiao, Z. Diao, G. Zhang, W. Li, L. Wang, H. Jiang, X. Liang, Z. Li, G. Xie,  Not All Pretrained Representation has The Sweet Danger of Sugar: Robust and Trustworthy Representation Learning for Encrypted Malicious Traffic Identification, ACM APNET 2026
+* <span style="color:blue">[APNET 26]</span> M. Qiao, Z. Diao, G. Zhang, L. Wang, K. Lv, X. Liang, Y. Gong, H. Jiang, J. Wang, Z. Li, G. Xie,  Not All Flows are Worth N Packets: Robust Encrypted Traffic Classification via Dynamic Patch-level Feature Learning, ACM APNET 2026
 * <span style="color:blue">[APNET 25]</span> Kai Lv, Jinyang Li, Pengyi Zhang, Heng Pan, Luyang Li, Shuaihai Hu, Zhenyu Li, Gaogang Xie, Jingbin Zhou, Kun Tan, OmniDMA: Scalable RDMA Transport over WAN, ACM APNET 2025
+* <span style="color:blue">[APNET 24]</span> Enhan Li, Wenhao Wu, Zhaohua Wang, Zhenyu Li, Jianwei Niu, SAROS: A Self-Adaptive Routing Oblivious Sampling Method for Network-wide Heavy Hitter Detection ACM APNET 2024
+* <span style="color:blue">[PAM 24]</span> Yu Tian, Zhenyu Li, Dom-BERT: Detecting Malicious Domains with Pre-training Model, PAM 2024
+* <span style="color:blue">[NOSSDAV 24]</span> Yuankang Zhao, Qinghua Wu, Gerui Lv, Furong YANG, Jiuhai Zhang, Feng Peng, Yammei Liu, Zhenyu Li, Ying Chen, Hongyu Guo, Gaogang Xie, JitBright: towards Low-Latency Mobile Cloud Rendering through Jitter Buffer Optimization, NOSSDAV 2024 (Best paper award)
+
