@@ -73,6 +73,7 @@ Network Measurement and Security
 
 Journals 
 ======
+* <span style="color:blue">[TDSC 26]</span> Dingwei Liu, Zhenyu Li, Zhibin Zhang, Zhaohua Wang, Jin Yan. Ppin: Anomaly-based Intrusion Detection on Provenance Graph via Behavior Pattern Mining. IEEE Transactions on Dependable and Secure Computing, 2026
 * <span style="color:blue">[TOMM 2025]</span>  Yuankang Zhao, Qinghua Wu, Gerui Lv, Furong Yang, Jiuhai Zhang, Feng Peng, Yanmei Liu, Zhenyu Li, Hongyu Guo, Ying Chen, Gaogang Xie, Understanding and Taming the Inflated Latency in Mobile Cloud Rendering, ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), 2025 
 * <span style="color:blue">[TNET 2025]</span> Jianer Zhou, Zhiyuan Pan, Zhenyu Li, Gareth Tyson, Weichao Li, Xinyi Qiu, Heng Pan, Xinyi Zhang, Gaogang Xie, Safety in DRL-Based Congestion Control: A Framework Empowered by Expert Refinement, IEEE Trans. Networking, 2025
 * <span style="color:blue">[TMC 23]</span> Gerui Lv, Qinghua Wu, Qingyue Tan, Weiran Wang, Zhenyu Li and Gaogang Xie, "Accurate Throughput Prediction for Improving QoE in Mobile Adaptive Streaming", IEEE Trans. Mobile Computing, 2023
